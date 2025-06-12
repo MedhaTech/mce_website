@@ -20,7 +20,7 @@
                             <br>
                             <a href="https://www.mcehassan.ac.in/home/Overview/Information-Science-and-Engineering"
                                 target="_blank" style="color: yellow;" class="blink">
-                                Department of ISE
+                                Link to Department of ISE
                             </a>
                         </p>
 
