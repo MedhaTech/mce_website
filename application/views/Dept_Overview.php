@@ -14,8 +14,8 @@
                         <p class="text-center mt-10" style="font-size: 20px; font-weight: bold;">
                             <a href="https://www.mcehassan.ac.in/home/Overview/Information-Science-and-Engineering"
                                 target="_blank" style="color: yellow;" class="blink">
-                                Information Science Engineering department merged with Computer Science & Engineering
-                                department from academic year 2025-2026
+                                Information Science & Engineering department is merged with Computer Science & Engineering
+                                department from the academic year 2025-2026
                             </a>
                             <br>
                             <a href="https://www.mcehassan.ac.in/home/Overview/Information-Science-and-Engineering"
