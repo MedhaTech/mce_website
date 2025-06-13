@@ -475,7 +475,7 @@
             </div>
             <div class="col-xs-12 col-sm-6 col-md-6 pt-10">
               <!-- <iframe width="100%" height="300" src="https://www.youtube.com/embed/rV1EZaFJlCk?si=0XA21lM9_OmYZVxe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
-              <iframe width="100%" height="300" src="https://www.youtube.com/embed/VrtGlZDAb58?si=wKStg49FZg4s9czB&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen autoplay="0"></iframe>
+              <iframe width="100%" height="300" src="https://www.youtube.com/embed/EKtptv4nElI?si=ZF5l8w6fbkShWrDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen autoplay="0"></iframe>
             </div>
           </div>
         </div>
