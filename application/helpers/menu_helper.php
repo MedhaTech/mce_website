@@ -1148,7 +1148,7 @@ $jayParsedAry = [
                 [
                     "name" => "Information Science and Engineering",
                     "link" => true,
-                    "display" => true,
+                    "display" => false,
                     "childrenDisplay" => true,
                     "subchildrenDisplay" => false,
                     "department" => true,
