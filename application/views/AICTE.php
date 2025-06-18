@@ -40,6 +40,16 @@
                     </thead>
                     <tbody>
                         <?php $i=1;?>
+                        <tr>
+                            <td><?=$i++;?></td>
+                            <td>Extension of Approval for the Academic Year 2025-26</td>
+                            <td><?php echo anchor('assets/files/AICTE/EOA Report 2025-2026_.PDF','<i class="fa fa-download"></i> Click Here','class="btn btn-warning btn-sm" target="_blank"');?></td>
+                        </tr>
+                        <tr>
+                            <td><?=$i++;?></td>
+                            <td>Extension of Approval for the Academic Year 2024-25</td>
+                            <td><?php echo anchor('assets/files/AICTE/EOA 2024-25.pdf','<i class="fa fa-download"></i> Click Here','class="btn btn-warning btn-sm" target="_blank"');?></td>
+                        </tr>
                           <tr>
                             <td><?=$i++;?></td>
                             <td>Extension of Approval for the Academic Year 2023-24</td>
@@ -62,7 +72,7 @@
                         </tr>
                         <tr>
                             <td><?=$i++;?></td>
-                            <td>Extension of Approval from the academic years 1994 to 2020-21</td>
+                            <td>Extension of Approval from the Academic years 1994 to 2020-21</td>
                             <td><?php echo anchor('assets/files/AICTE/1.pdf','<i class="fa fa-download"></i> Click Here','class="btn btn-warning btn-sm" target="_blank"');?></td>
                         </tr>
                         

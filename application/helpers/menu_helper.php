@@ -41,7 +41,7 @@ $jayParsedAry = [
                 [
                     "name" => "Administration",
                     "link" => true,
-                    "display" => true,
+                    "display" => false,
                 ],
                 [
                     "name" => "Mandatory Disclosure",
