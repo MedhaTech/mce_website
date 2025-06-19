@@ -32,11 +32,11 @@
 <table cellspacing="0" class="table">
 <tbody>
   <tr>
-<td><img src="<?php echo base_url();?>assets/dean.jpg" style="width:50%;" alt="dean"
+<td><img src="<?php echo base_url();?>assets/dean.jpg" style="width:50% !important;" alt="dean"
                         class="img-responsive img-fullwidth img-thumbnail">
 </td>
 <td>&nbsp;&nbsp;</td>
-<td><img src="<?php echo base_url();?>assets/assoc_dean.jpg" style="width:50%;" alt="dean"
+<td><img src="<?php echo base_url();?>assets/assoc_dean.jpg" style="width:50% !important;" alt="dean"
                         class="img-responsive img-fullwidth img-thumbnail">
 </td>
 
