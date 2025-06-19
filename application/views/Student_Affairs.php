@@ -31,6 +31,16 @@
               <p></p>	
 <table cellspacing="0" class="table">
 <tbody>
+  <tr>
+<td><img src="<?php echo base_url();?>assets/dean.jpg" alt="shuttle"
+                        class="img-responsive img-fullwidth img-thumbnail">
+</td>
+<td>&nbsp;&nbsp;</td>
+<td><img src="<?php echo base_url();?>assets/assoc_dean.jpg" alt="shuttle"
+                        class="img-responsive img-fullwidth img-thumbnail">
+</td>
+
+</tr>
 <tr>
 <td><strong>Dr.Dushyanth Kumar.K.R</strong>
 </td>
