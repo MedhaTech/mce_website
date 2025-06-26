@@ -5,7 +5,7 @@
             <div class="section-content">
                 <div class="row">
                     <div class="col-md-12 text-center">
-                        <h2 class="title text-white">Code of Ethics and Institutional Research Policies</h2>
+                        <h2 class="title text-white">Code of Ethics and IRP (Institutional Research Policies)</h2>
                         <ol class="breadcrumb text-center text-black mt-10">
                             <li><a href="#">Home</a></li>
                             <!-- <li><a href="#">Pages</a></li> -->
@@ -28,7 +28,7 @@
                             <!-- Slider Revolution Ends -->
                             
                             <h3 class="line-bottom mt-0"> <span class="text-theme-colored">
-                     Code of Ethics and Institutional Research Policies</span></h3>
+                     Code of Ethics and IRP (Institutional Research Policies)</span></h3>
 
                              <iframe src="<?=base_url().'assets/files/RESEARCH/Research_Policy_Committe.pdf'?>" width="100%" height="800px" style="padding:20px 0px"></iframe>
 

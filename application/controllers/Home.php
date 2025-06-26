@@ -1616,7 +1616,7 @@ class Home extends CI_Controller
 	{
 		$data['mainMenu'] = 'Research';
 		$data['parentMenu'] = false;
-		$data['activeMenu'] = "Code of Ethics";
+		$data['activeMenu'] = "Code of Ethics and IRP";
 		$this->template->show('code_of_ethics', $data);
 	}
 

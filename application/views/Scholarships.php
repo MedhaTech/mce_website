@@ -49,8 +49,10 @@
                 <li>BSNL Scholarship</li>
                 <li>Other Scholarships.</li>
               </ul>
-              <p class="text-justify">To view list of scholarships provided by Alumni members of this college</p>
+              
               <p class="text-justify">Any other issues related to Scholarship may contact the Student Dean-SA during working hours.</p>
+
+              <h4 class="text-justify">List of scholarships provided by Alumni members of this college is as follows</h4>
               <!-- <p class="text-justify">&nbsp;</p>
               <p class="text-justify">&nbsp;</p> -->
               <table class="table">
@@ -68,7 +70,9 @@
                       <p class="text-justify">1</p>
                     </td>
                     <td>
-                      <p class="text-justify">M &ndash; Foundation Scholarship (Group - D Employees only) of Malnad College of Engineering</p>
+                      <p class="text-justify" ><b>Malnad College of Engineering is proud to announce a scholarship in honor of its visionary founder,Late Sri Chandappa Patil,IAS, a pioneer in the field of education and public service.</b> <a href="<?php echo base_url('assets/images/slider/Chandappa_patil_ms.pdf'); ?>" class="btn btn-danger btn-sm" target="_blank" style="animation: blink 3s infinite;">
+        <i class="fa fa-eye"></i> View
+    </a></p>
                     </td>
                   </tr>
                   <tr>
@@ -76,7 +80,7 @@
                       <p class="text-justify">2</p>
                     </td>
                     <td>
-                      <p class="text-justify">M &ndash; Foundation Scholarship for students</p>
+                      <p class="text-justify">M &ndash; Foundation Scholarship (Group - D Employees only) of Malnad College of Engineering</p>
                     </td>
                   </tr>
                   <tr>
@@ -84,7 +88,7 @@
                       <p class="text-justify">3</p>
                     </td>
                     <td>
-                      <p class="text-justify">M &ndash; Foundation Best outgoing students award&nbsp; Scholarship</p>
+                      <p class="text-justify">M &ndash; Foundation Scholarship for students</p>
                     </td>
                   </tr>
                   <tr>
@@ -92,7 +96,7 @@
                       <p class="text-justify">4</p>
                     </td>
                     <td>
-                      <p class="text-justify">E&amp;C Dept. Scholarship</p>
+                      <p class="text-justify">M &ndash; Foundation Best outgoing students award&nbsp; Scholarship</p>
                     </td>
                   </tr>
                   <tr>
@@ -100,7 +104,7 @@
                       <p class="text-justify">5</p>
                     </td>
                     <td>
-                      <p class="text-justify">P.S Ramesh&nbsp; Scholarship</p>
+                      <p class="text-justify">E&amp;C Dept. Scholarship</p>
                     </td>
                   </tr>
                   <tr>
@@ -108,7 +112,7 @@
                       <p class="text-justify">6</p>
                     </td>
                     <td>
-                      <p class="text-justify">Shri. Abdul Gaffar Shariff Scholarship (For UG)</p>
+                      <p class="text-justify">P.S Ramesh&nbsp; Scholarship</p>
                     </td>
                   </tr>
                   <tr>
@@ -116,7 +120,7 @@
                       <p class="text-justify">7</p>
                     </td>
                     <td>
-                      <p class="text-justify">MYTHREE - 83 Best Academic Performer Award</p>
+                      <p class="text-justify">Shri. Abdul Gaffar Shariff Scholarship (For UG)</p>
                     </td>
                   </tr>
                   <tr>
@@ -124,7 +128,7 @@
                       <p class="text-justify">8</p>
                     </td>
                     <td>
-                      <p class="text-justify">Mr. K. M. K. Sharma 1984 Batch Scholarship</p>
+                      <p class="text-justify">MYTHREE - 83 Best Academic Performer Award</p>
                     </td>
                   </tr>
                   <tr>
@@ -132,7 +136,7 @@
                       <p class="text-justify">9</p>
                     </td>
                     <td>
-                      <p class="text-justify">MTES- Gold Medals</p>
+                      <p class="text-justify">Mr. K. M. K. Sharma 1984 Batch Scholarship</p>
                     </td>
                   </tr>
                   <tr>
@@ -140,7 +144,7 @@
                       <p class="text-justify">10</p>
                     </td>
                     <td>
-                      <p class="text-justify">Best Outgoing Student MTES-Scholarship</p>
+                      <p class="text-justify">MTES- Gold Medals</p>
                     </td>
                   </tr>
                   <tr>
@@ -148,7 +152,7 @@
                       <p class="text-justify">11</p>
                     </td>
                     <td>
-                      <p class="text-justify">1981 NSS batch Scholarship</p>
+                      <p class="text-justify">Best Outgoing Student MTES-Scholarship</p>
                     </td>
                   </tr>
                   <tr>
@@ -156,7 +160,7 @@
                       <p class="text-justify">12</p>
                     </td>
                     <td>
-                      <p class="text-justify">Mr. K. M. K. Sharma 1984 Batch Scholarship</p>
+                      <p class="text-justify">1981 NSS batch Scholarship</p>
                     </td>
                   </tr>
                   <tr>
@@ -164,7 +168,7 @@
                       <p class="text-justify">13</p>
                     </td>
                     <td>
-                      <p class="text-justify">Dr. H. Ananthan&nbsp; Scholarship</p>
+                      <p class="text-justify">Mr. K. M. K. Sharma 1984 Batch Scholarship</p>
                     </td>
                   </tr>
                   <tr>
@@ -172,7 +176,7 @@
                       <p class="text-justify">14</p>
                     </td>
                     <td>
-                      <p class="text-justify">Mr. Dinakar A&nbsp; Scholarship</p>
+                      <p class="text-justify">Dr. H. Ananthan&nbsp; Scholarship</p>
                     </td>
                   </tr>
                   <tr>
@@ -180,7 +184,7 @@
                       <p class="text-justify">15</p>
                     </td>
                     <td>
-                      <p class="text-justify">1979 &ndash; 84 NSS last batch Scholarship Group&ndash;D employees of Malnad College of Engineering</p>
+                      <p class="text-justify">Mr. Dinakar A&nbsp; Scholarship</p>
                     </td>
                   </tr>
                   <tr>
@@ -188,7 +192,7 @@
                       <p class="text-justify">16</p>
                     </td>
                     <td>
-                      <p class="text-justify">Mr. B.V. Vijaya&nbsp; Scholarship</p>
+                      <p class="text-justify">1979 &ndash; 84 NSS last batch Scholarship Group&ndash;D employees of Malnad College of Engineering</p>
                     </td>
                   </tr>
                   <tr>
@@ -196,7 +200,7 @@
                       <p class="text-justify">17</p>
                     </td>
                     <td>
-                      <p class="text-justify">Sarandeep Singh Memorial Scholarship</p>
+                      <p class="text-justify">Mr. B.V. Vijaya&nbsp; Scholarship</p>
                     </td>
                   </tr>
                   <tr>
@@ -204,7 +208,7 @@
                       <p class="text-justify">18</p>
                     </td>
                     <td>
-                      <p class="text-justify">Sarandeep Singh Memorial Badminton Cup</p>
+                      <p class="text-justify">Sarandeep Singh Memorial Scholarship</p>
                     </td>
                   </tr>
                   <tr>
@@ -212,7 +216,7 @@
                       <p class="text-justify">19</p>
                     </td>
                     <td>
-                      <p class="text-justify">Sri. K.R. Venkateshamurthy- Smt. M.K. Kalavathi&rdquo; Corpus Scholarship Fund</p>
+                      <p class="text-justify">Sarandeep Singh Memorial Badminton Cup</p>
                     </td>
                   </tr>
                   <tr>
@@ -220,7 +224,7 @@
                       <p class="text-justify">20</p>
                     </td>
                     <td>
-                      <p class="text-justify">Sri.N.Gurudutt Scholarship B.K. Seetharamiah Memorial Award</p>
+                      <p class="text-justify">Sri. K.R. Venkateshamurthy- Smt. M.K. Kalavathi&rdquo; Corpus Scholarship Fund</p>
                     </td>
                   </tr>
                   <tr>
@@ -228,7 +232,7 @@
                       <p class="text-justify">21</p>
                     </td>
                     <td>
-                      <p class="text-justify">Sri. B. Prakashkumar Scholarship</p>
+                      <p class="text-justify">Sri.N.Gurudutt Scholarship B.K. Seetharamiah Memorial Award</p>
                     </td>
                   </tr>
                   <tr>
@@ -236,7 +240,7 @@
                       <p class="text-justify">22</p>
                     </td>
                     <td>
-                      <p class="text-justify">Smt. Gowramma and Sri Thammaiah Shetty Cash award</p>
+                      <p class="text-justify">Sri. B. Prakashkumar Scholarship</p>
                     </td>
                   </tr>
                   <tr>
@@ -244,7 +248,7 @@
                       <p class="text-justify">23</p>
                     </td>
                     <td>
-                      <p class="text-justify">Sri. Ravi Bale Scholarship</p>
+                      <p class="text-justify">Smt. Gowramma and Sri Thammaiah Shetty Cash award</p>
                     </td>
                   </tr>
                   <tr>
@@ -252,12 +256,20 @@
                       <p class="text-justify">24</p>
                     </td>
                     <td>
-                      <p class="text-justify">Dr. H. J. Amarendra Scholarship (Smt. Srikantha Rathna H N)</p>
+                      <p class="text-justify">Sri. Ravi Bale Scholarship</p>
                     </td>
                   </tr>
                   <tr>
                     <td>
                       <p class="text-justify">25</p>
+                    </td>
+                    <td>
+                      <p class="text-justify">Dr. H. J. Amarendra Scholarship (Smt. Srikantha Rathna H N)</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p class="text-justify">26</p>
                     </td>
                     <td>
                       <p class="text-justify">Shri. Ramesh Scholarship</p>
