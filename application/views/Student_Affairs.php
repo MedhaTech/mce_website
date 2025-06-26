@@ -264,8 +264,14 @@
                 <li>LIC Scholarship</li>
                 <li>BSNL Scholarship</li>
                 <li>Other Scholarships.</li>
-              </ul> -->
-              <p>To view list of scholarships provided by Alumni members of this college</p>
+              </ul> --><br>
+             <p class="text-danger" style="animation: blink 3s infinite;"><b>
+    To view list of scholarships provided by Alumni members of this college </b>
+    <a href="<?php echo base_url('home/Scholarships'); ?>" class="btn btn-warning btn-sm" target="_blank">
+        <i class="fa fa-eye"></i> View
+    </a>
+</p>
+       
               <p>Any other issues related to Scholarship may contact the Student Dean-SA during working hours.</p>
               <!-- <table cellspacing="0" class="table">
                 <tbody>

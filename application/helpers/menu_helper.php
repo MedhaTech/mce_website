@@ -761,7 +761,7 @@ $jayParsedAry = [
                             "display" => true,
                         ],
                         [
-                            "name" => "Code of Ethics",
+                            "name" => "Code of Ethics and IRP",
                             "redirect" => "Code of Ethics and Institutional Research Policies",
                             "display" => true,
                         ],
