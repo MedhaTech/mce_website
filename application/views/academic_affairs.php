@@ -242,7 +242,7 @@
                     $files = $Details1->file_names;
                     $files1 = pathinfo($files, PATHINFO_FILENAME);
                     $name = str_replace('_', ' ', $fileName);
-                    $btn = anchor('assets/departments/' . $short_name . '/accreditedDocuments/' . $files, '<i class="fa fa-fw fa-download"></i> Download', 'class="btn btn-danger btn-xs" target="_blank"');
+                    $btn = anchor('assets/departments/AAF' . $short_name . '/accreditedDocuments/' . $files, '<i class="fa fa-fw fa-download"></i> Download', 'class="btn btn-danger btn-xs" target="_blank"');
                   }
 
                   if ($Details1->file_type == "L") {
