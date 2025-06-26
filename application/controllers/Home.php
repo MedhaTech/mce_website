@@ -1598,7 +1598,7 @@ class Home extends CI_Controller
 	{
 		$data['mainMenu'] = 'Research';
 		$data['parentMenu'] = false;
-		$data['file_name'] = 'Research_Policy_Final.pdf';
+		$data['file_name'] = 'Research_Incentives.pdf';
 		$data['activeMenu'] = "Research Incentives and Support";
 		$this->template->show('research_data', $data);
 	}
@@ -1610,6 +1610,14 @@ class Home extends CI_Controller
 		$data['file_name'] = 'UG_Student_Project_Details.pdf';
 		$data['activeMenu'] = "Student Research & Innovation";
 		$this->template->show('research_data', $data);
+	}
+
+	public function Code_of_Ethics_and_Institutional_Research_Policies()
+	{
+		$data['mainMenu'] = 'Research';
+		$data['parentMenu'] = false;
+		$data['activeMenu'] = "Code of Ethics";
+		$this->template->show('code_of_ethics', $data);
 	}
 
 	public function PhD_Research()

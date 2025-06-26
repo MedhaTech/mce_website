@@ -760,6 +760,11 @@ $jayParsedAry = [
                             "link" => true,
                             "display" => true,
                         ],
+                        [
+                            "name" => "Code of Ethics",
+                            "redirect" => "Code of Ethics and Institutional Research Policies",
+                            "display" => true,
+                        ],
                          [
                             "name" => "PhD Research",
                             "link" => true,
