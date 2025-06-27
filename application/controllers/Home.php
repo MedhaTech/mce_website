@@ -2099,7 +2099,7 @@ class Home extends CI_Controller
 		$data['activeMenu'] = "Academic Affairs";
 		$data['sliders'] = $this->admin_model->getDetailsbyfield($data['dept_id'], 'dept_id', 'sliders')->result();
 		$data['Details'] = $this->admin_model->getDetailsbyfield($data['dept_id'], 'dept_id', 'events')->result();
-		$data['documents'] = $this->admin_model->getDetailsbyfield($data['dept_id'], 'dept_id', 'accredited_documents')->result();
+		$data['documents'] = $this->admin_model->getDetailsbyfieldSort($data['dept_id'], 'dept_id', 'id', 'desc', 'accredited_documents')->result();
 		$data['albums'] = $this->admin_model->getDetailsbyfield('92', 'album_id', 'album_images')->result();
 		$data['departmentsDetails'] = $this->admin_model->getDetailsbyfield($data['dept_id'], 'department_id', 'departments_data')->row();
 		$config = array();
