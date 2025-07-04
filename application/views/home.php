@@ -109,17 +109,24 @@
         <ul>
 
         <!---side 1 -->
+        <li data-index="rs-13" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="<?php echo base_url(); ?>assets/images/slider/the_week.png" data-rotate="0" data-saveperformance="off" data-title="Slide 13" data-description="">
+            
+            <img src="<?php echo base_url(); ?>assets/images/slider/the_week.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina>
+
+          </li>
+        
         <li data-index="rs-13" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="<?php echo base_url(); ?>assets/images/slider/chathur.png" data-rotate="0" data-saveperformance="off" data-title="Slide 13" data-description="">
             
             <img src="<?php echo base_url(); ?>assets/images/slider/chathur.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina>
 
           </li>
+          
 
-          <li data-index="rs-12" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="<?php echo base_url(); ?>assets/images/slider/SPOCC.png" data-rotate="0" data-saveperformance="off" data-title="Slide 12" data-description="">
+          <!-- <li data-index="rs-12" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="<?php echo base_url(); ?>assets/images/slider/SPOCC.png" data-rotate="0" data-saveperformance="off" data-title="Slide 12" data-description="">
             
             <img src="<?php echo base_url(); ?>assets/images/slider/SPOCC.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina>
 
-          </li>
+          </li> -->
 
 
         <!-- <li data-index="rs-11" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="<?php echo base_url(); ?>assets/images/iicccd.png" data-rotate="0" data-saveperformance="off" data-title="Slide 11" data-description="">

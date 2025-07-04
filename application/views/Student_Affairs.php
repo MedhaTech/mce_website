@@ -1,247 +1,255 @@
 <div class="main-content">
-  <section class="inner-header divider parallax layer-overlay overlay-dark-8" data-bg-img="<?php echo base_url(); ?>assets/images/slider3.jpg">
-    <div class="container pt-120 pb-120">
-      <!-- Section Content -->
-      <div class="section-content">
-        <div class="row">
-          <div class="col-md-12 text-center">
-            <h2 class="title text-white"><?= $activeMenu; ?></h2>
-            <ol class="breadcrumb text-center text-black mt-10">
-              <li><a href="#">Home</a></li>
-              <!-- <li><a href="#">Pages</a></li> -->
-              <li class="active text-gray-silver">Admissions</li>
-            </ol>
-          </div>
+    <section class="inner-header divider parallax layer-overlay overlay-dark-8"
+        data-bg-img="<?php echo base_url(); ?>assets/images/slider3.jpg">
+        <div class="container pt-120 pb-120">
+            <!-- Section Content -->
+            <div class="section-content">
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <h2 class="title text-white"><?= $activeMenu; ?></h2>
+                        <ol class="breadcrumb text-center text-black mt-10">
+                            <li><a href="#">Home</a></li>
+                            <!-- <li><a href="#">Pages</a></li> -->
+                            <li class="active text-gray-silver">Admissions</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
         </div>
-      </div>
-    </div>
-  </section>
-  <section>
-    <div class="container mt-30 mb-30 pt-30 pb-30">
-      <div class="row"> 
-        <div class="col-md-9 pull-right flip sm-pull-none">
-          <div class="row mt-10">
-            <div class="col-xs-12 col-sm-12 col-md-12 mb-sm-20 p-20 pt-0 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">
-              <h3 class="line-bottom mt-0"> <span class="text-theme-colored">
-                  <?= $activeMenu; ?> </span></h3>
-            
-              <p>The Office of Dean Student Affairs functions as part of the Administrative sections under Dean (Student Affairs). The nature of assignments carried out by the Student Affairs Section includes the following various heads:</p>
-              <p class="text-theme-colored">Student&nbsp;Affairs</p>
-             
-              <p></p>	
-<table cellspacing="0" class="table">
-<tbody>
-  <tr>
-<td><img src="<?php echo base_url();?>assets/dean.jpg" style="width:50% !important;" alt="dean"
-                        class="img-responsive img-fullwidth img-thumbnail">
-</td>
-<td>&nbsp;&nbsp;</td>
-<td><img src="<?php echo base_url();?>assets/assoc_dean.jpg" style="width:50% !important;" alt="dean"
-                        class="img-responsive img-fullwidth img-thumbnail">
-</td>
+    </section>
+    <section>
+        <div class="container mt-30 mb-30 pt-30 pb-30">
+            <div class="row">
+                <div class="col-md-9 pull-right flip sm-pull-none">
+                    <div class="row mt-10">
+                        <div class="col-xs-12 col-sm-12 col-md-12 mb-sm-20 p-20 pt-0 wow fadeInUp"
+                            data-wow-duration="1s" data-wow-delay="0.5s">
+                            <h3 class="line-bottom mt-0"> <span class="text-theme-colored">
+                                    <?= $activeMenu; ?> </span></h3>
 
-</tr>
-<tr>
-<td><strong>Dr.Dushyanth Kumar.K.R</strong>
-</td>
-<td>&nbsp;&nbsp;</td>
-<td><strong>Dr.Indira Bahaddur </strong>
-</td>
+                            <p>The Office of Dean Student Affairs functions as part of the Administrative sections under
+                                Dean (Student Affairs). The nature of assignments carried out by the Student Affairs
+                                Section includes the following various heads:</p>
+                            <p class="text-theme-colored">Student&nbsp;Affairs</p>
 
-</tr>
-<tr>
-<td>Dean- Student Affairs
-</td>
-<td>&nbsp;&nbsp;</td>
-<td>Associate Dean Student Affairs
-</td>
+                            <p></p>
+                            <table cellspacing="0" class="table">
+                                <tbody>
+                                    <tr>
+                                        <td><img src="<?php echo base_url();?>assets/dean.jpg"
+                                                style="width:50% !important;" alt="dean"
+                                                class="img-responsive img-fullwidth img-thumbnail">
+                                        </td>
+                                        <td>&nbsp;&nbsp;</td>
+                                        <td><img src="<?php echo base_url();?>assets/assoc_dean.jpg"
+                                                style="width:50% !important;" alt="dean"
+                                                class="img-responsive img-fullwidth img-thumbnail">
+                                        </td>
 
-</tr>
-<tr>
-<td>Dept. of Mechanical Engineering.
-</td>
-<td>&nbsp;&nbsp;</td>
-<td>Dept. of Electronics and Communication  Engineering
-</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Dr.Dushyanth Kumar.K.R</strong>
+                                        </td>
+                                        <td>&nbsp;&nbsp;</td>
+                                        <td><strong>Dr.Indira Bahaddur </strong>
+                                        </td>
 
-</tr>
-</tbody>
-</table>
+                                    </tr>
+                                    <tr>
+                                        <td>Dean- Student Affairs
+                                        </td>
+                                        <td>&nbsp;&nbsp;</td>
+                                        <td>Associate Dean Student Affairs
+                                        </td>
 
-              <p ><strong class="text-theme-colored">&nbsp;LIST OF STAFF MEMBERS OF DEAN(SA)</strong></p>
-              <p><strong>Dean-SA Superintendent -Shivakumaraswamy&nbsp;</strong></p>
-              <p class="text-theme-colored">Admission Section</p>
-              <table cellspacing="0" class="table">
-                <tbody>
-                  <tr>
-                    <td>
-                      <p><strong>Sl No</strong></p>
-                    </td>
-                    <td>
-                      <p><strong>Staff Members</strong></p>
-                    </td>
-                    <td>
-                      <p><strong>&nbsp;Designation</strong></p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>
-                      <p>1</p>
-                    </td>
-                    <td>
-                      <p>Mallikarjuna</p>
-                    </td>
-                    <td>
-                      <p>Superintendent</p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>
-                      <p>2</p>
-                    </td>
-                    <td>
-                      <p>H.M. Geetha</p>
-                    </td>
-                    <td>
-                      <p>S.D.A</p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>
-                      <p>3</p>
-                    </td>
-                    <td>
-                      <p>Kiran M B</p>
-                    </td>
-                    <td>
-                      <p>Mechanic</p>
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
-              <p class="text-theme-colored">Fees (DCB) - Section</p>
-              <table cellspacing="0" class="table">
-                <tbody>
-                  <tr>
-                    <td>
-                      <p><strong>Sl No</strong></p>
-                    </td>
-                    <td>
-                      <p><strong>Staff Members</strong></p>
-                    </td>
-                    <td>
-                      <p><strong>&nbsp;Designation</strong></p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>
-                      <p>1</p>
-                    </td>
-                    <td>
-                      <p>H.M Madakari Nayak</p>
-                    </td>
-                    <td>
-                      <p>S.D.A</p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>
-                      <p>2</p>
-                    </td>
-                    <td>
-                      <p>Karunakar G S </p>
-                    </td>
-                    <td>
-                      <p>S.D.A</p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>
-                      <p>3</p>
-                    </td>
-                    <td>
-                      <p>Shruthi </p>
-                    </td>
-                    <td>
-                      <p>S.D.A</p>
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
-              <p class="text-theme-colored">Scholarship - Section</p>
-              <table cellspacing="0" class="table">
-                <tbody>
-                  <tr>
-                    <td>
-                      <p><strong>Sl No</strong></p>
-                    </td>
-                    <td>
-                      <p><strong>Staff Members</strong></p>
-                    </td>
-                    <td>
-                      <p><strong>&nbsp;Designation</strong></p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>
-                      <p>1</p>
-                    </td>
-                    <td>
-                      <p>K.N. Veeresh</p>
-                    </td>
-                    <td>
-                      <p>Stenographer</p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>
-                      <p>2</p>
-                    </td>
-                    <td>
-                      <p>H.J. Chandrashekar</p>
-                    </td>
-                    <td>
-                      <p>Mechanic</p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>
-                      <p>3</p>
-                    </td>
-                    <td>
-                      <p>Chandrakala</p>
-                    </td>
-                    <td>
-                      <p>Helper</p>
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
-                         
-              <p ></p> 
- <!-- <div class="row list-dashed mt-20"> -->
-         <!-- <p><h4><strong class="text-theme-colored">&nbsp;First Year Even Semester Time Table 2023-24</strong> <?php echo anchor('assets/files/1st year time table .pdf','<i class="fa fa-eye"></i> Click here','class="btn btn-warning btn-sm" target="_blank"');?><img class="" alt="" src="<?= base_url(); ?>assets/images/new.gif" style="width: 50px;"></h4></p> -->
-         
-         <!-- <p><h4><strong class="text-theme-colored">&nbsp;Formation of Anti Ragging committee for the Academic Year - 2024-25</strong> <?php echo anchor('assets/files/antirag.pdf','<i class="fa fa-eye"></i> Click here','class="btn btn-warning btn-sm" target="_blank"');?><img class="" alt="" src="<?= base_url(); ?>assets/images/new.gif" style="width: 50px;"></h4></p> -->
+                                    </tr>
+                                    <tr>
+                                        <td>Dept. of Mechanical Engineering.
+                                        </td>
+                                        <td>&nbsp;&nbsp;</td>
+                                        <td>Dept. of Electronics and Communication Engineering
+                                        </td>
 
-         <!-- <p><h4><strong class="text-theme-colored">&nbsp;ACADEMIC CALENDAR OF EVENTS</strong> <?php echo anchor('assets/files/1693820207.pdf','<i class="fa fa-eye"></i> Click here','class="btn btn-warning btn-sm" target="_blank"');?><img class="" alt="" src="<?= base_url(); ?>assets/images/new.gif" style="width: 50px;"></h4></p>  -->
-<!-- </div> -->
-         
+                                    </tr>
+                                </tbody>
+                            </table>
 
-               </br>
-              <p class="text-theme-colored">Admission Matters</p>
-              <ul>
-                <li>Admission of UG, PG, and Ph. D. Students to the college.</li>
-                <li>Act as a Liaison between MCE and the Karnataka Examination Authority (KEA).</li>
-                <li>&nbsp;Visvesvaraya Technological University, Belagavi, related to Admissions.</li>
-                <li>Maintaining the records of Students (with all the required/ possible information).</li>
-                <li>Issuing of ID cards to the Students, faculty, and staff and also to their vehicles own.</li>
-                <li>Issuing of various Certificates as required by the students.</li>
-                <li>Issue of Transfer Certificates, etc.</li>
-              </ul>
-              <!-- <p class="text-theme-colored">Scholarship&nbsp;Details</p> -->
-              <!-- <p>Deserving students can avail of several scholarships awarded by the Government of Karnataka. Here is a list of the scholarships and the corresponding applications that can be obtained from the Admission and Scholarship section during the month of every year.</p> -->
-             <!-- <ul>
+                            <p><strong class="text-theme-colored">&nbsp;LIST OF STAFF MEMBERS OF DEAN(SA)</strong></p>
+                            <p><strong>Dean-SA Superintendent -Shivakumaraswamy&nbsp;</strong></p>
+                            <p class="text-theme-colored">Admission Section</p>
+                            <table cellspacing="0" class="table">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <p><strong>Sl No</strong></p>
+                                        </td>
+                                        <td>
+                                            <p><strong>Staff Members</strong></p>
+                                        </td>
+                                        <td>
+                                            <p><strong>&nbsp;Designation</strong></p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p>1</p>
+                                        </td>
+                                        <td>
+                                            <p>Mallikarjuna</p>
+                                        </td>
+                                        <td>
+                                            <p>Superintendent</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p>2</p>
+                                        </td>
+                                        <td>
+                                            <p>H.M. Geetha</p>
+                                        </td>
+                                        <td>
+                                            <p>S.D.A</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p>3</p>
+                                        </td>
+                                        <td>
+                                            <p>Kiran M B</p>
+                                        </td>
+                                        <td>
+                                            <p>Mechanic</p>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <p class="text-theme-colored">Fees (DCB) - Section</p>
+                            <table cellspacing="0" class="table">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <p><strong>Sl No</strong></p>
+                                        </td>
+                                        <td>
+                                            <p><strong>Staff Members</strong></p>
+                                        </td>
+                                        <td>
+                                            <p><strong>&nbsp;Designation</strong></p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p>1</p>
+                                        </td>
+                                        <td>
+                                            <p>H.M Madakari Nayak</p>
+                                        </td>
+                                        <td>
+                                            <p>S.D.A</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p>2</p>
+                                        </td>
+                                        <td>
+                                            <p>Karunakar G S </p>
+                                        </td>
+                                        <td>
+                                            <p>S.D.A</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p>3</p>
+                                        </td>
+                                        <td>
+                                            <p>Shruthi </p>
+                                        </td>
+                                        <td>
+                                            <p>S.D.A</p>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <p class="text-theme-colored">Scholarship - Section</p>
+                            <table cellspacing="0" class="table">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <p><strong>Sl No</strong></p>
+                                        </td>
+                                        <td>
+                                            <p><strong>Staff Members</strong></p>
+                                        </td>
+                                        <td>
+                                            <p><strong>&nbsp;Designation</strong></p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p>1</p>
+                                        </td>
+                                        <td>
+                                            <p>K.N. Veeresh</p>
+                                        </td>
+                                        <td>
+                                            <p>Stenographer</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p>2</p>
+                                        </td>
+                                        <td>
+                                            <p>H.J. Chandrashekar</p>
+                                        </td>
+                                        <td>
+                                            <p>Mechanic</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p>3</p>
+                                        </td>
+                                        <td>
+                                            <p>Chandrakala</p>
+                                        </td>
+                                        <td>
+                                            <p>Helper</p>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+
+                            <p></p>
+                            <!-- <div class="row list-dashed mt-20"> -->
+                            <!-- <p><h4><strong class="text-theme-colored">&nbsp;First Year Even Semester Time Table 2023-24</strong> <?php echo anchor('assets/files/1st year time table .pdf','<i class="fa fa-eye"></i> Click here','class="btn btn-warning btn-sm" target="_blank"');?><img class="" alt="" src="<?= base_url(); ?>assets/images/new.gif" style="width: 50px;"></h4></p> -->
+
+                            <!-- <p><h4><strong class="text-theme-colored">&nbsp;Formation of Anti Ragging committee for the Academic Year - 2024-25</strong> <?php echo anchor('assets/files/antirag.pdf','<i class="fa fa-eye"></i> Click here','class="btn btn-warning btn-sm" target="_blank"');?><img class="" alt="" src="<?= base_url(); ?>assets/images/new.gif" style="width: 50px;"></h4></p> -->
+
+                            <!-- <p><h4><strong class="text-theme-colored">&nbsp;ACADEMIC CALENDAR OF EVENTS</strong> <?php echo anchor('assets/files/1693820207.pdf','<i class="fa fa-eye"></i> Click here','class="btn btn-warning btn-sm" target="_blank"');?><img class="" alt="" src="<?= base_url(); ?>assets/images/new.gif" style="width: 50px;"></h4></p>  -->
+                            <!-- </div> -->
+
+
+                            </br>
+                            <p class="text-theme-colored">Admission Matters</p>
+                            <ul>
+                                <li>Admission of UG, PG, and Ph. D. Students to the college.</li>
+                                <li>Act as a Liaison between MCE and the Karnataka Examination Authority (KEA).</li>
+                                <li>&nbsp;Visvesvaraya Technological University, Belagavi, related to Admissions.</li>
+                                <li>Maintaining the records of Students (with all the required/ possible information).
+                                </li>
+                                <li>Issuing of ID cards to the Students, faculty, and staff and also to their vehicles
+                                    own.</li>
+                                <li>Issuing of various Certificates as required by the students.</li>
+                                <li>Issue of Transfer Certificates, etc.</li>
+                            </ul>
+                            <!-- <p class="text-theme-colored">Scholarship&nbsp;Details</p> -->
+                            <!-- <p>Deserving students can avail of several scholarships awarded by the Government of Karnataka. Here is a list of the scholarships and the corresponding applications that can be obtained from the Admission and Scholarship section during the month of every year.</p> -->
+                            <!-- <ul>
                 <li>Post Metric Scholarship to SC/ST</li>
                 <li>Fee-reimbursements to SC/ST</li>
                 <li>Fee- a concession to Category-l, IIA,IIIA,IIIB and GM</li>
@@ -264,10 +272,18 @@
                 <li>LIC Scholarship</li>
                 <li>BSNL Scholarship</li>
                 <li>Other Scholarships.</li>
-              </ul> -->
-              <p>To view list of scholarships provided by Alumni members of this college</p>
-              <p>Any other issues related to Scholarship may contact the Student Dean-SA during working hours.</p>
-              <!-- <table cellspacing="0" class="table">
+              </ul> --><br>
+                            <p class="text-danger" style="animation: blink 3s infinite;"><b>
+                                    To view list of scholarships provided by Alumni members of this college </b>
+                                <a href="<?php echo base_url('home/Scholarships'); ?>" class="btn btn-warning btn-sm"
+                                    target="_blank">
+                                    <i class="fa fa-eye"></i> View
+                                </a>
+                            </p>
+
+                            <p>Any other issues related to Scholarship may contact the Student Dean-SA during working
+                                hours.</p>
+                            <!-- <table cellspacing="0" class="table">
                 <tbody>
                   <tr>
                     <td>
@@ -479,355 +495,404 @@
                   </tr>
                 </tbody>
               </table> -->
-              <p>or</p>
-              <p><strong>Email:-&nbsp;</strong><u><a href="mailto:deansw@mcehassan.ac.in">deansa@mcehassan.ac.in</a></u>,<u><a href="mailto:swo@mcehassan.ac.in"> swo@mcehassan.ac.in</a></u></p>
-              <p>For any further information/help queries, the contact person is:</p>
-             
+                            <p>or</p>
+                            <p><strong>Email:-&nbsp;</strong><u><a
+                                        href="mailto:deansw@mcehassan.ac.in">deansa@mcehassan.ac.in</a></u>,<u><a
+                                        href="mailto:swo@mcehassan.ac.in"> swo@mcehassan.ac.in</a></u></p>
+                            <p>For any further information/help queries, the contact person is:</p>
 
 
 
-<table cellspacing="0" class="table">
-<tbody>
-<tr>
-<td><strong>Dr. Dushyanth Kumar.K.R</strong>
-</td>
-<td>&nbsp;&nbsp;</td>
-<td><strong>Dr.Indira Bahaddur</strong>
-</td>
 
-</tr>
-<tr>
-<td>Dean- Student Affairs<br /> Contact no: 9481967374
-</td>
-<td>&nbsp;&nbsp;</td>
-<td>Associate Dean Student Affairs<br /> Contact no: 9731793730
-</td>
+                            <table cellspacing="0" class="table">
+                                <tbody>
+                                    <tr>
+                                        <td><strong>Dr. Dushyanth Kumar.K.R</strong>
+                                        </td>
+                                        <td>&nbsp;&nbsp;</td>
+                                        <td><strong>Dr.Indira Bahaddur</strong>
+                                        </td>
 
-</tr>
-<tr>
-<td>Email:&nbsp;<u><a href="mailto:hsn@mcehassan.ac.in">krd@mcehassan.ac.in</a></u>
-</td>
-<td>&nbsp;&nbsp;</td>
-<td>Email:&nbsp;<u><a href="mailto:krd@mcehassan.ac.in">ib@mcehassan.ac.in</a></u>
-</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Dean- Student Affairs<br /> Contact no: 9481967374
+                                        </td>
+                                        <td>&nbsp;&nbsp;</td>
+                                        <td>Associate Dean Student Affairs<br /> Contact no: 9731793730
+                                        </td>
 
-</tr>
-</tbody>
-</table>
+                                    </tr>
+                                    <tr>
+                                        <td>Email:&nbsp;<u><a
+                                                    href="mailto:hsn@mcehassan.ac.in">krd@mcehassan.ac.in</a></u>
+                                        </td>
+                                        <td>&nbsp;&nbsp;</td>
+                                        <td>Email:&nbsp;<u><a
+                                                    href="mailto:krd@mcehassan.ac.in">ib@mcehassan.ac.in</a></u>
+                                        </td>
 
-              <!-- <p class="text-theme-colored">SCHOLARSHIPS ISSUES</p> -->
-             <!-- <ul>
+                                    </tr>
+                                </tbody>
+                            </table>
+
+                            <!-- <p class="text-theme-colored">SCHOLARSHIPS ISSUES</p> -->
+                            <!-- <ul>
                 <li>Issue of notification for Karnataka Government scholarships, processing of students&rsquo; records and forwarding the same to the concerned authorities.</li>
                 <li>Issue of notification of other Central Government/Private Scholarships and processing of such records/forwarding the same to the concerned authorities.</li>
                 <li>Issue of notification of MTES Scholarship, initiated by the MTES &reg;, Hassan.</li>
                 <li>MTES Gold Medals for branch toppers</li>
                 <li>MTES Best outgoing student award</li>
               </ul> -->
-            <!-- <p>Group personal accident insurance scheme implemented to the students and teaching, non-teaching and ministerial staff of the college:</p> -->
-              
-              <p><strong class="text-theme-colored">DCB SECTION</strong></p>
-              <p></p>
-              <table cellspacing="0" class="table">
-                <tbody>
-                  <tr>
-                    <td colspan="4">
-                      <p>Fees &amp; Eligibility for admissions at MCE for the Academic Year 2024-25</p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>
-                      <p><strong>Sl.&nbsp;No.</strong></p>
-                    </td>
-                    <td>
-                      <p><strong>Course</strong></p>
-                    </td>
-                    <td>
-                      <p><strong>Fees</strong></p>
-                    </td>
-                    <td>
-                      <p><strong>Eligibility</strong></p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>
-                      <p>1.</p>
-                    </td>
-                    <td>
-                      <p>B.E. (AIDED COURSES)</p>
-                    </td>
-                    <td>
-                      <p>₹42866/-(1st Year Fees)</p>
-                    </td>
-                    <td>
-                      <p>10+2 with 45% + UG CET</p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>
-                      <p>2.</p>
-                    </td>
-                    <td>
-                      <p>B.E.( UN AIDED COURSES)</p>
-                    </td>
-                    <td>
-                      <p>₹115956/-(1st Year Fees)</p>
-                    </td>
-                    <td>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>
-                      <p>3.</p>
-                    </td>
-                    <td>
-                      <p>M.Tech.</p>
-                    </td>
-                    <td>
-                      <p>₹..../-(1st Year Fees)</p>
-                    </td>
-                    <td>
-                      <p>PGCET / GATE/MGMT</p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>
-                      <p>4.</p>
-                    </td>
-                    <td>
-                      <p>Ph.D.Full Time /Part Time</p>
-                    </td>
-                    <td>
-                      <p>₹...../-(1st Year Fees)</p>
-                    </td>
-                    <td>
-                      <p>Pass in Post-Graduation</p>
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
-              <p>Note: University Fee is not included in Ph.D.(Full Time &amp; Part Time ) Fee details ,It has to be paid to VTU portal separately</p>
-              <p>Demand Collect and Balance (DCB) section</p>
-              <p>1. Notification of Student Fee&nbsp;<strong> </strong></p>
-              <p>Notification of Student Fee Dues and Collections: Announcement in MCE Parents Portal (Web page - https://mceparents.contineo.in) in contineo software &amp; College Notice Board</p>
-              <p>2. Maintaining of Students fee records</p>
-              <table cellspacing="0" class="table ">
-                <tbody>
-                  <tr>
-                    <td>
-                      <p>Maintaining of Students fee records : DCB Ledger &amp; Contineo Software</p>
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
-              <p>3. Notification of Student Dues and Collections.</p>
-              <table cellspacing="0" class="table ">
-                <tbody>
-                  <tr>
-                    <td>
-                      <p>Notification of Student Dues and Collections : Announcement in MCE Parents Portal (Web page- https://mceparents.contineo.in) in contineo software &amp; College Notice Board</p>
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
-  <div class="row list-dashed mt-20">
-         <p><strong>&nbsp;Description of Different Clubs in MCE</strong> <?php echo anchor('assets/files/Clubs.pdf','<i class="fa fa-eye"></i> Click here','class="btn btn-warning btn-sm" target="_blank"');?></p>
-</div>
-             <!-- <p>CLUBS</p>-->
-             <!-- <p>SoUL :</p>-->
-              <!--<p>SoUL is a voluntary student organisation which was formed by a group of students on 9th February 2014 with the tagline: "Educating minds, Empowering lives".&nbsp;The organisation teaches the kids of Balamandir, every Sunday and it also organises SoUL Day every year as a part of educational entertainment for kids and drives are conducted as a part of social awareness.</p>-->
-             <!-- <p>VISION</p>
-             <!-- <p>To recognize and nurture the talents of young in need. Provide English education to survive in this competitive world. To create moments of happiness and bring smiles on young and old faces.</p>--> 
-             <!-- <p>MOTTO</p>-->
-             <!-- <p>Main motto is to teach the kids with basic english required. The organization was registered by the government in 2018. At present the organization has 36 active members.</p>-->
-             <!-- <p>THE LITERARY CLUB </p>-->
-            <!--  <p> </p>-->
-            <!--  <p>VISION</p>-->
-            <!--  <p>To foster the talents and assorted interests of blooming engineers with creative skills and a penchant for literature</p>-->
-             <!-- <p>MISSION</p>-->
-             <!-- <p>1.To induce a spirit of learning through inventive, artistic and cultural activities.</p>-->
-             <!-- <p>2.To enhance the creative ability among students and to create an environment to mould and refine them</p>-->
-            <!--  <p>3.To interact and improve communication skills by encouraging them to display their cognitive skills an to instill confidence</p>-->
-            <!--  <p>MALNAD FEST</p>-->
-            <!--  <p>A type of fest which considers each and everyones' interest and can be called as an "ALL IN ONE FEST"</p>-->
-            <!--  <p>It is divided into 4 main categories:</p>-->
-            <!--  <p><strong>&deg;</strong>&nbsp;Balwaan</p>-->
-            <!--  <p><strong>&deg;</strong>&nbsp;Buddhimaan</p>-->
-            <!--  <p><strong>&deg;</strong>&nbsp;Kalakrithi</p>-->
-            <!--  <p><strong>&deg;</strong>&nbsp;Darpan</p> -->
-            <!--  <p><strong>Balwaan</strong>: As the name suggests, it's for all sports geeks out there. Try your luck in sports related events like pentathlon, water polo and much more.</p>-->
-            <!--  <p><strong>Buddhimaan</strong>: How intelligent are you??? Test your vocabulary and oratory skills in various sub events comprising literati, spell-a-thon and toastmaster.</p> -->
-            <!--  <p><strong>Kalakrithi</strong>: All artists out there, it's your time to shine! A chance to show your artistic skills with events like graffiti, art attack etc</p> -->
-            <!--  <p><strong>Darpan</strong>: Are you ready to rock the stage with your amazing talent? Yes, cultural events at your door step like dance for a cause, dance to the step and much more.</p> -->
-             <!-- <p>A fest without an ultimate win is too sober. So, all the branches out there brace yourself for the ultimate challenge to win the title&nbsp;<em>"SARVOTTAM"</em>. The concluding day of the fest is the ultimate win with a DJ floor to groove on consisting of more than 2500 people in the entire fest.</p> -->
-             <!-- <p><strong><em>NOESIS:</em></strong>&nbsp;A magazine to read anywhere, anytime on your e-device. Well, this e-magazine, comes out specially during odd semesters. It comprises everything. Articles, Poems, Stories, Photography and Arts in all three languages including Hindi, English, Kannada for you to choose from!</p> -->
-             <!-- <p>The whole bunch of editorials, art,</p> -->
-              <!--<p>LEO CLUB</p> -->
-              <!--<p>Goal</p> -->
-             <!-- <p>● To develop leadership qualities and provide you with a sense of community.</p> -->
-             <!-- <p>● To add new experiences and learn soft skills.</p> -->
-             <!-- <p>● To provide new networking chances.</p> -->
-             <!-- <p>Vision</p> -->
-            <!--  <p>(As it is the outstretched branch of lions club international,) To actively organize various events in the college.</p> -->
-             <!-- <p>Mission</p> -->
-             <!-- <p>To organize events and therefore develop leadership, communication, marketing and fundraising skills.</p> -->
-             <!-- <p>Objectives of Leo Club</p>-->
-             <!-- <p>● Develop leadership skills.</p>-->
-             <!-- <p>● Cultivate a (professional) network.</p>-->
-             <!-- <p>● Improve your communication skills and your ability to engage with others.</p>-->
-             <!-- <p>● Learn about marketing, budgeting, and time management.</p>-->
-            <!--  <p>● Make friends and meet like-minded individuals who share similar interests.</p>-->
-            <!--  <p>● (Add experience to your resume)</p>-->
-            <!--  <p>Activities of Leo Club</p>-->
-            <!--  <p>We organize various kinds of activities throughout the academic year.</p>-->
-            <!--  <p>● Jamboree &ndash; inter-college cultural and literary fest.</p>-->
-            <!--  <p>● Katalyst &ndash; the literary and fundraising event.</p>-->
-            <!--  <p>● Paper drive &ndash; the fundraising event.</p>-->
-            <!--  <p>● Orphanage visit &ndash; Spending quality time with orphans and providing them with essentials.</p>-->
-            <!--  <p> </p>-->
-            <!--  <p>MALNAD ECO CLUB</p>-->
-            <!--  <p>Goal</p> -->
-            <!--  <p>● To promote student's interest over environmental issues.</p>-->
-            <!--  <p>● To get the students actively involved in environmental issues.</p>-->
-             <!-- <p>Vision</p>-->
-            <!--  <p>To create an environmental friendly society which can actively get involved in environmental education.</p>-->
-            <!--  <p>Mission</p>-->
-            <!--  <p>By involving students to participate in activities like awareness, conservation, education, community participation, etc.</p>-->
-             <!-- <p>Objectives of Malnad Eco Club</p>-->
-             <!-- <p>● To educate the students about their environment.</p>-->
-             <!-- <p>● To create a clean and green consciousness among students</p>-->
-             <!-- <p>through various innovative methods.</p>-->
-             <!-- <p>● To involve them in efforts to preserve the environment.</p>-->
-             <!-- <p>● To motivate students on how to imbibe habits and life style for minimum waste generation.</p>-->
-            <!--  <p>Activities of Malnad Eco Club</p> -->
-            <!--  <p>● Action-based activities like tree plantation (herbal garden), cleanliness drives both within and outside the college campus.</p> -->
-            <!--  <p>● Placing display boards on selected trees in the campus by</p>-->
-            <!--  <p>specifying biological names and common names.</p> -->
-           <!--   <p>● Eternity - a event which triggers the eco-concern among the technical students and develops an understanding that nature is the ultimate technology.</p>-->
-            <!--  <p>● Vanya chaithanya is a event to imbibe concern for wild and</p> -->
-            <!--  <p>wilderness in budding brains of in and around Hassan.</p>-->
-            <!--  <p>● Spot Fixing - every year Malnad eco club chooses a spot in Hassan city, immaculate that place and also maintains it.</p>-->
-            <!--  <p>ROTARACT CLUB, MCE</p>-->
-             <!-- <p>Goal</p>-->
-             <!-- <p>● To unravel the talent and creativity of young minds of Hassan.</p> -->
-            <!--  <p>● To provide an opportunity to experience placements and strengthen the entrepreneurial abilities.</p> -->
-            <!--  <p>● To motivate people for eventual membership in Rotary.</p> -->
-             <!-- <p>Vision</p>
+                            <!-- <p>Group personal accident insurance scheme implemented to the students and teaching, non-teaching and ministerial staff of the college:</p> -->
+
+                            <p><strong class="text-theme-colored">DCB SECTION</strong></p>
+                            <p></p>
+                            <table cellspacing="0" class="table">
+                                <tbody>
+                                    <tr>
+                                        <td colspan="4">
+                                            <p>Fees &amp; Eligibility for admissions at MCE for the Academic Year
+                                                2024-25</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p><strong>Sl.&nbsp;No.</strong></p>
+                                        </td>
+                                        <td>
+                                            <p><strong>Course</strong></p>
+                                        </td>
+                                        <td>
+                                            <p><strong>Fees</strong></p>
+                                        </td>
+                                        <td>
+                                            <p><strong>Eligibility</strong></p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p>1.</p>
+                                        </td>
+                                        <td>
+                                            <p>B.E. (AIDED COURSES)</p>
+                                        </td>
+                                        <td>
+                                            <p>₹42866/-(1st Year Fees)</p>
+                                        </td>
+                                        <td>
+                                            <p>10+2 with 45% + UG CET</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p>2.</p>
+                                        </td>
+                                        <td>
+                                            <p>B.E.( UN AIDED COURSES)</p>
+                                        </td>
+                                        <td>
+                                            <p>₹115956/-(1st Year Fees)</p>
+                                        </td>
+                                        <td>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p>3.</p>
+                                        </td>
+                                        <td>
+                                            <p>M.Tech.</p>
+                                        </td>
+                                        <td>
+                                            <p>₹..../-(1st Year Fees)</p>
+                                        </td>
+                                        <td>
+                                            <p>PGCET / GATE/MGMT</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p>4.</p>
+                                        </td>
+                                        <td>
+                                            <p>Ph.D.Full Time /Part Time</p>
+                                        </td>
+                                        <td>
+                                            <p>₹...../-(1st Year Fees)</p>
+                                        </td>
+                                        <td>
+                                            <p>Pass in Post-Graduation</p>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <p>Note: University Fee is not included in Ph.D.(Full Time &amp; Part Time ) Fee details ,It
+                                has to be paid to VTU portal separately</p>
+                            <p>Demand Collect and Balance (DCB) section</p>
+                            <p>1. Notification of Student Fee&nbsp;<strong> </strong></p>
+                            <p>Notification of Student Fee Dues and Collections: Announcement in MCE Parents Portal (Web
+                                page - https://mceparents.contineo.in) in contineo software &amp; College Notice Board
+                            </p>
+                            <p>2. Maintaining of Students fee records</p>
+                            <table cellspacing="0" class="table ">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <p>Maintaining of Students fee records : DCB Ledger &amp; Contineo Software
+                                            </p>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <p>3. Notification of Student Dues and Collections.</p>
+                            <table cellspacing="0" class="table ">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <p>Notification of Student Dues and Collections : Announcement in MCE
+                                                Parents Portal (Web page- https://mceparents.contineo.in) in contineo
+                                                software &amp; College Notice Board</p>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <div class="row list-dashed mt-20">
+                                <p><strong>&nbsp;Description of Different Clubs in MCE</strong>
+                                    <?php echo anchor('assets/files/Clubs.pdf','<i class="fa fa-eye"></i> Click here','class="btn btn-warning btn-sm" target="_blank"');?>
+                                </p>
+                            </div>
+                            <!-- <p>CLUBS</p>-->
+                            <!-- <p>SoUL :</p>-->
+                            <!--<p>SoUL is a voluntary student organisation which was formed by a group of students on 9th February 2014 with the tagline: "Educating minds, Empowering lives".&nbsp;The organisation teaches the kids of Balamandir, every Sunday and it also organises SoUL Day every year as a part of educational entertainment for kids and drives are conducted as a part of social awareness.</p>-->
+                            <!-- <p>VISION</p>
+             <!-- <p>To recognize and nurture the talents of young in need. Provide English education to survive in this competitive world. To create moments of happiness and bring smiles on young and old faces.</p>-->
+                            <!-- <p>MOTTO</p>-->
+                            <!-- <p>Main motto is to teach the kids with basic english required. The organization was registered by the government in 2018. At present the organization has 36 active members.</p>-->
+                            <!-- <p>THE LITERARY CLUB </p>-->
+                            <!--  <p> </p>-->
+                            <!--  <p>VISION</p>-->
+                            <!--  <p>To foster the talents and assorted interests of blooming engineers with creative skills and a penchant for literature</p>-->
+                            <!-- <p>MISSION</p>-->
+                            <!-- <p>1.To induce a spirit of learning through inventive, artistic and cultural activities.</p>-->
+                            <!-- <p>2.To enhance the creative ability among students and to create an environment to mould and refine them</p>-->
+                            <!--  <p>3.To interact and improve communication skills by encouraging them to display their cognitive skills an to instill confidence</p>-->
+                            <!--  <p>MALNAD FEST</p>-->
+                            <!--  <p>A type of fest which considers each and everyones' interest and can be called as an "ALL IN ONE FEST"</p>-->
+                            <!--  <p>It is divided into 4 main categories:</p>-->
+                            <!--  <p><strong>&deg;</strong>&nbsp;Balwaan</p>-->
+                            <!--  <p><strong>&deg;</strong>&nbsp;Buddhimaan</p>-->
+                            <!--  <p><strong>&deg;</strong>&nbsp;Kalakrithi</p>-->
+                            <!--  <p><strong>&deg;</strong>&nbsp;Darpan</p> -->
+                            <!--  <p><strong>Balwaan</strong>: As the name suggests, it's for all sports geeks out there. Try your luck in sports related events like pentathlon, water polo and much more.</p>-->
+                            <!--  <p><strong>Buddhimaan</strong>: How intelligent are you??? Test your vocabulary and oratory skills in various sub events comprising literati, spell-a-thon and toastmaster.</p> -->
+                            <!--  <p><strong>Kalakrithi</strong>: All artists out there, it's your time to shine! A chance to show your artistic skills with events like graffiti, art attack etc</p> -->
+                            <!--  <p><strong>Darpan</strong>: Are you ready to rock the stage with your amazing talent? Yes, cultural events at your door step like dance for a cause, dance to the step and much more.</p> -->
+                            <!-- <p>A fest without an ultimate win is too sober. So, all the branches out there brace yourself for the ultimate challenge to win the title&nbsp;<em>"SARVOTTAM"</em>. The concluding day of the fest is the ultimate win with a DJ floor to groove on consisting of more than 2500 people in the entire fest.</p> -->
+                            <!-- <p><strong><em>NOESIS:</em></strong>&nbsp;A magazine to read anywhere, anytime on your e-device. Well, this e-magazine, comes out specially during odd semesters. It comprises everything. Articles, Poems, Stories, Photography and Arts in all three languages including Hindi, English, Kannada for you to choose from!</p> -->
+                            <!-- <p>The whole bunch of editorials, art,</p> -->
+                            <!--<p>LEO CLUB</p> -->
+                            <!--<p>Goal</p> -->
+                            <!-- <p>● To develop leadership qualities and provide you with a sense of community.</p> -->
+                            <!-- <p>● To add new experiences and learn soft skills.</p> -->
+                            <!-- <p>● To provide new networking chances.</p> -->
+                            <!-- <p>Vision</p> -->
+                            <!--  <p>(As it is the outstretched branch of lions club international,) To actively organize various events in the college.</p> -->
+                            <!-- <p>Mission</p> -->
+                            <!-- <p>To organize events and therefore develop leadership, communication, marketing and fundraising skills.</p> -->
+                            <!-- <p>Objectives of Leo Club</p>-->
+                            <!-- <p>● Develop leadership skills.</p>-->
+                            <!-- <p>● Cultivate a (professional) network.</p>-->
+                            <!-- <p>● Improve your communication skills and your ability to engage with others.</p>-->
+                            <!-- <p>● Learn about marketing, budgeting, and time management.</p>-->
+                            <!--  <p>● Make friends and meet like-minded individuals who share similar interests.</p>-->
+                            <!--  <p>● (Add experience to your resume)</p>-->
+                            <!--  <p>Activities of Leo Club</p>-->
+                            <!--  <p>We organize various kinds of activities throughout the academic year.</p>-->
+                            <!--  <p>● Jamboree &ndash; inter-college cultural and literary fest.</p>-->
+                            <!--  <p>● Katalyst &ndash; the literary and fundraising event.</p>-->
+                            <!--  <p>● Paper drive &ndash; the fundraising event.</p>-->
+                            <!--  <p>● Orphanage visit &ndash; Spending quality time with orphans and providing them with essentials.</p>-->
+                            <!--  <p> </p>-->
+                            <!--  <p>MALNAD ECO CLUB</p>-->
+                            <!--  <p>Goal</p> -->
+                            <!--  <p>● To promote student's interest over environmental issues.</p>-->
+                            <!--  <p>● To get the students actively involved in environmental issues.</p>-->
+                            <!-- <p>Vision</p>-->
+                            <!--  <p>To create an environmental friendly society which can actively get involved in environmental education.</p>-->
+                            <!--  <p>Mission</p>-->
+                            <!--  <p>By involving students to participate in activities like awareness, conservation, education, community participation, etc.</p>-->
+                            <!-- <p>Objectives of Malnad Eco Club</p>-->
+                            <!-- <p>● To educate the students about their environment.</p>-->
+                            <!-- <p>● To create a clean and green consciousness among students</p>-->
+                            <!-- <p>through various innovative methods.</p>-->
+                            <!-- <p>● To involve them in efforts to preserve the environment.</p>-->
+                            <!-- <p>● To motivate students on how to imbibe habits and life style for minimum waste generation.</p>-->
+                            <!--  <p>Activities of Malnad Eco Club</p> -->
+                            <!--  <p>● Action-based activities like tree plantation (herbal garden), cleanliness drives both within and outside the college campus.</p> -->
+                            <!--  <p>● Placing display boards on selected trees in the campus by</p>-->
+                            <!--  <p>specifying biological names and common names.</p> -->
+                            <!--   <p>● Eternity - a event which triggers the eco-concern among the technical students and develops an understanding that nature is the ultimate technology.</p>-->
+                            <!--  <p>● Vanya chaithanya is a event to imbibe concern for wild and</p> -->
+                            <!--  <p>wilderness in budding brains of in and around Hassan.</p>-->
+                            <!--  <p>● Spot Fixing - every year Malnad eco club chooses a spot in Hassan city, immaculate that place and also maintains it.</p>-->
+                            <!--  <p>ROTARACT CLUB, MCE</p>-->
+                            <!-- <p>Goal</p>-->
+                            <!-- <p>● To unravel the talent and creativity of young minds of Hassan.</p> -->
+                            <!--  <p>● To provide an opportunity to experience placements and strengthen the entrepreneurial abilities.</p> -->
+                            <!--  <p>● To motivate people for eventual membership in Rotary.</p> -->
+                            <!-- <p>Vision</p>
              <!-- <p>To provides young people to develop the knowledge and skills that will assist them in personal development and to address the physical and social needs of their communities.</p> -->
-             <!-- <p>Mission</p>
+                            <!-- <p>Mission</p>
              <!-- <p>The club commits itself to the society and following the motto of Rotaract: fellowship through service, it enables the Rotaractors to give back to the community they live in.</p> -->
-             <!-- <p>Objectives of Rotaract Club of MCE</p> -->
-             <!-- <p>● To provide an opportunity for young men and women to enhance the knowledge and skills that will assist them in personal development, to address the physical and social needs of their communities.</p> -->
-             <!-- <p>Activities of Rotaract Club of MCE</p> -->
-             <!-- <p>The club conducts various events so as to improve the lives of the individuals in the community.</p> -->
-             <!-- <p>● The club organizes REFLECTIONS, the major event of the club which provides an opportunity for the students from several schools in and around Hassan to participate in this event and bring out the best in them.</p> -->
-             <!-- <p>● TUSSLE, being another event from the club gives a clear picture of the recruitment process. It helps the students to cope up enough confidence to face future recruitments.</p> --> 
-             <!-- <p>● The club also contributes its bit by maintaining a record of blood groups of students who are willing to donate blood in case of any emergency.</p> -->
-               <p>General Issues</p>
-              <ul>
-                <li>Notification of student representatives if each branch of engineering on the recommendation of respective Heads of the Departments.</li>
-                <li>Formation of Student Council/ by conducting elections, nominating the elected students to various student bodies, addressing the issues related to students, etc.</li>
-                <li>Formation of Anti-ragging committee and maintenance of related records.</li>
-                <li>Nominating the Faculty advisers to support student-related issues, especially for I year BE students.</li>
-                <li>To organize FAREWELL to all outgoing students during the Even semester term.</li>
-                <li>Addressing the queries of students.</li>
-              </ul>
-              <p>Awards</p>
-              <ul>
-                <li>Issue of notification for Best outgoing student Award,</li>
-                <li>Issue of notification for the Branch toppers Award,</li>
-                <li>Issue of notification for the MTES Gold medals for both the above.</li>
-              </ul>
-              <p>Students&rsquo; Activities</p>
-              <p>College Day Celebrations (Malnad Fest).</p>
-              <p>The College day is organized and celebrated during the 11th or 12th week of even semester term by the Students Council of the college, under the stewardship of the Dean (SA). The literary club also extends the required support for the same.</p>
-              <p>On application submitted by a student, the institute may issue or liaison with Colleges/ University for :</p>
-              <ul>
-                <li>Study certificate</li>
-                <li>Bonafide certificate</li>
-                <li>Expenditure certificate for Bank loan.</li>
-                <li>Certificates related to VTU, Belgaum.</li>
-                <li>Transfer Certificate</li>
-                <li>Marks cards (P.G. and Ph. D). (for UG -Dean Exams will issue the required Grade cards)</li>
-                <li>Provisional Degree Certificate (P.G. and Ph. D) and Transcript (P.G.) (for UG -Dean Exams will issue the required PDC and Transcript)</li>
-              </ul>
-              <p>STUDENT CREDENTIALS VERIFICATION AND/ OR CERTIFICATES ISSUED BY THE COLLEGE</p>
-              <p>Verifying agency willing to verify the certificate/credentials of Alumni of Malnad College of Engineering, Hassan can do so by sending an application with the details furnished below by e-mail/post mentioning the purpose of the verification along with following enclosures:</p>
-              <p>Format for Application:</p>
-              <p>Name in full (in block letters):<br /> University Seat Number (USN):<br /> Period of study at the Institute:<br /> Department/Centre :<br /> Degree obtained :<br /> Year of award of Degree :<br /> Draft no./Net Banking details &amp; Date :<br /> Complete postal address :<br /> Period of study at the Institute:<br /> Enclosures:<br /> i) Xerox copy of the certificate(s) to be verified<br /> ii) Copy of Marks cards of all semesters/ Degree certificate.</p>
-              <p>Processing Time:</p>
-              <p>Upon receiving the bank draft and other documents in order, it takes approximately 5 working days from the day of receiving the above documents to process an application (excluding the postal time).</p>
-              <p><strong>Verification charges</strong></p>
-              <p>Any agency willing to verify the academic record of a student has to pay:</p>
-              <p>1. For alumni who have passed in the last fifth year or beyond:<br /> <strong>Rs.2000/-</strong>per record (If the request is made within India)<br /> <strong>US $ 50.0</strong>(If the request is made from abroad)</p>
-              <p>2. For alumni who have left the institution within the last 5 years:<br /> <strong>Rs.2000/-</strong>per record (If the request is made within India)<br /> <strong>US $ 50.0</strong>(If the request is made from abroad)</p>
-              <p>plus an additional fee of Rs 100/- (If the request is made within India) or US $5 (If the request is made from abroad) per year for the years exceeding the fifth year.</p>
-              <p>The above amount may be paid through Bank Draft drawn in favor of<br /> <strong>&ldquo;THE PRINCIPAL, MCE HASSAN&rdquo; payable at &ldquo;HASSAN&rdquo;</strong></p>
-              <p><strong>OR</strong>&nbsp;Through Net Banking by transferring/depositing the total amount in a college bank account as detailed below:</p>
-              <p>Bank Name: CANARA BANK</p>
-              <p>Bank Branch: MCE BRANCH, HASSAN</p>
-              <p>Bank Account Name: THE PRINCIPAL, MALNAD COLLEGE OF ENGINEERING, HASSAN</p>
-              <p>Bank Account type: CURRENT A/C</p>
-              <p>Bank Account No: 14053070001574</p>
-              <p>Bank Swift code: CNRBINBBBFD</p>
-              <p>MICR Code: 573015308</p>
-              <p>NEFT IFSC Code: CNRB0011405</p>
-              <p>RTGS IFSC Code: CNRB0011405</p>
-              <p><strong>NOTE:</strong>&nbsp;Further, if the amount is paid/deposited through net banking/cash deposit, then the scanned copy of the transaction receipt detailing the transactions made is to be sent by e-mail to the e-Mail id given below.</p>
-              <p>Mailing Address:</p>
-              <p>The application may be sent along with the Demand draft and other documents to the following address:</p>
-              <p>The Principal</p>
-              <p>Malnad College of Engineering, P.O.Box 21, Salagame Road,</p>
-              <p>HASSAN -573 202, Karnataka, India</p>
-              <p>Ph: +91 8172 245317&nbsp;</p>
-              <p><strong>Email:-</strong><a href="mailto:deansw@mcehassan.ac.in">deansa@mcehassan.ac.in</a>, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u><a href="mailto:swo@mcehassan.ac.in">swo@mcehassan.ac.in</a></u><br /> For any further information/help queries, the contact person is:</p>
-             
+                            <!-- <p>Objectives of Rotaract Club of MCE</p> -->
+                            <!-- <p>● To provide an opportunity for young men and women to enhance the knowledge and skills that will assist them in personal development, to address the physical and social needs of their communities.</p> -->
+                            <!-- <p>Activities of Rotaract Club of MCE</p> -->
+                            <!-- <p>The club conducts various events so as to improve the lives of the individuals in the community.</p> -->
+                            <!-- <p>● The club organizes REFLECTIONS, the major event of the club which provides an opportunity for the students from several schools in and around Hassan to participate in this event and bring out the best in them.</p> -->
+                            <!-- <p>● TUSSLE, being another event from the club gives a clear picture of the recruitment process. It helps the students to cope up enough confidence to face future recruitments.</p> -->
+                            <!-- <p>● The club also contributes its bit by maintaining a record of blood groups of students who are willing to donate blood in case of any emergency.</p> -->
+                            <p>General Issues</p>
+                            <ul>
+                                <li>Notification of student representatives if each branch of engineering on the
+                                    recommendation of respective Heads of the Departments.</li>
+                                <li>Formation of Student Council/ by conducting elections, nominating the elected
+                                    students to various student bodies, addressing the issues related to students, etc.
+                                </li>
+                                <li>Formation of Anti-ragging committee and maintenance of related records.</li>
+                                <li>Nominating the Faculty advisers to support student-related issues, especially for I
+                                    year BE students.</li>
+                                <li>To organize FAREWELL to all outgoing students during the Even semester term.</li>
+                                <li>Addressing the queries of students.</li>
+                            </ul>
+                            <p>Awards</p>
+                            <ul>
+                                <li>Issue of notification for Best outgoing student Award,</li>
+                                <li>Issue of notification for the Branch toppers Award,</li>
+                                <li>Issue of notification for the MTES Gold medals for both the above.</li>
+                            </ul>
+                            <p>Students&rsquo; Activities</p>
+                            <p>College Day Celebrations (Malnad Fest).</p>
+                            <p>The College day is organized and celebrated during the 11th or 12th week of even semester
+                                term by the Students Council of the college, under the stewardship of the Dean (SA). The
+                                literary club also extends the required support for the same.</p>
+                            <p>On application submitted by a student, the institute may issue or liaison with Colleges/
+                                University for :</p>
+                            <ul>
+                                <li>Study certificate</li>
+                                <li>Bonafide certificate</li>
+                                <li>Expenditure certificate for Bank loan.</li>
+                                <li>Certificates related to VTU, Belgaum.</li>
+                                <li>Transfer Certificate</li>
+                                <li>Marks cards (P.G. and Ph. D). (for UG -Dean Exams will issue the required Grade
+                                    cards)</li>
+                                <li>Provisional Degree Certificate (P.G. and Ph. D) and Transcript (P.G.) (for UG -Dean
+                                    Exams will issue the required PDC and Transcript)</li>
+                            </ul>
+                            <p>STUDENT CREDENTIALS VERIFICATION AND/ OR CERTIFICATES ISSUED BY THE COLLEGE</p>
+                            <p>Verifying agency willing to verify the certificate/credentials of Alumni of Malnad
+                                College of Engineering, Hassan can do so by sending an application with the details
+                                furnished below by e-mail/post mentioning the purpose of the verification along with
+                                following enclosures:</p>
+                            <p>Format for Application:</p>
+                            <p>Name in full (in block letters):<br /> University Seat Number (USN):<br /> Period of
+                                study at the Institute:<br /> Department/Centre :<br /> Degree obtained :<br /> Year of
+                                award of Degree :<br /> Draft no./Net Banking details &amp; Date :<br /> Complete postal
+                                address :<br /> Period of study at the Institute:<br /> Enclosures:<br /> i) Xerox copy
+                                of the certificate(s) to be verified<br /> ii) Copy of Marks cards of all semesters/
+                                Degree certificate.</p>
+                            <p>Processing Time:</p>
+                            <p>Upon receiving the bank draft and other documents in order, it takes approximately 5
+                                working days from the day of receiving the above documents to process an application
+                                (excluding the postal time).</p>
+                            <p><strong>Verification charges</strong></p>
+                            <p>Any agency willing to verify the academic record of a student has to pay:</p>
+                            <p>1. For alumni who have passed in the last fifth year or beyond:<br />
+                                <strong>Rs.2000/-</strong>per record (If the request is made within India)<br />
+                                <strong>US $ 50.0</strong>(If the request is made from abroad)</p>
+                            <p>2. For alumni who have left the institution within the last 5 years:<br />
+                                <strong>Rs.2000/-</strong>per record (If the request is made within India)<br />
+                                <strong>US $ 50.0</strong>(If the request is made from abroad)</p>
+                            <p>plus an additional fee of Rs 100/- (If the request is made within India) or US $5 (If the
+                                request is made from abroad) per year for the years exceeding the fifth year.</p>
+                            <p>The above amount may be paid through Bank Draft drawn in favor of<br />
+                                <strong>&ldquo;THE PRINCIPAL, MCE HASSAN&rdquo; payable at &ldquo;HASSAN&rdquo;</strong>
+                            </p>
+                            <p><strong>OR</strong>&nbsp;Through Net Banking by transferring/depositing the total amount
+                                in a college bank account as detailed below:</p>
+                            <p>Bank Name: CANARA BANK</p>
+                            <p>Bank Branch: MCE BRANCH, HASSAN</p>
+                            <p>Bank Account Name: THE PRINCIPAL, MALNAD COLLEGE OF ENGINEERING, HASSAN</p>
+                            <p>Bank Account type: CURRENT A/C</p>
+                            <p>Bank Account No: 14053070001574</p>
+                            <p>Bank Swift code: CNRBINBBBFD</p>
+                            <p>MICR Code: 573015308</p>
+                            <p>NEFT IFSC Code: CNRB0011405</p>
+                            <p>RTGS IFSC Code: CNRB0011405</p>
+                            <p><strong>NOTE:</strong>&nbsp;Further, if the amount is paid/deposited through net
+                                banking/cash deposit, then the scanned copy of the transaction receipt detailing the
+                                transactions made is to be sent by e-mail to the e-Mail id given below.</p>
+                            <p>Mailing Address:</p>
+                            <p>The application may be sent along with the Demand draft and other documents to the
+                                following address:</p>
+                            <p>The Principal</p>
+                            <p>Malnad College of Engineering, P.O.Box 21, Salagame Road,</p>
+                            <p>HASSAN -573 202, Karnataka, India</p>
+                            <p>Ph: +91 8172 245317&nbsp;</p>
+                            <p><strong>Email:-</strong><a
+                                    href="mailto:deansw@mcehassan.ac.in">deansa@mcehassan.ac.in</a>,
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u><a
+                                        href="mailto:swo@mcehassan.ac.in">swo@mcehassan.ac.in</a></u><br /> For any
+                                further information/help queries, the contact person is:</p>
 
-<table cellspacing="0" class="table">
-<tbody>
-<tr>
-<td><strong>Dr. Dushyanth Kumar.K.R</strong>
-</td>
-<td>&nbsp;&nbsp;</td>
-<td><strong>Dr.Indira Bahaddur</strong>
-</td>
 
-</tr>
-<tr>
-<td>Dean- Student Affairs
-</td>
-<td>&nbsp;&nbsp;</td>
-<td>Associate Dean Student Affairs
-</td>
+                            <table cellspacing="0" class="table">
+                                <tbody>
+                                    <tr>
+                                        <td><strong>Dr. Dushyanth Kumar.K.R</strong>
+                                        </td>
+                                        <td>&nbsp;&nbsp;</td>
+                                        <td><strong>Dr.Indira Bahaddur</strong>
+                                        </td>
 
-</tr>
-<tr>
-<td>Email:&nbsp;<u><a href="mailto:hsn@mcehassan.ac.in">krd@mcehassan.ac.in</a></u>
-</td>
-<td>&nbsp;&nbsp;</td>
-<td>Email:&nbsp;<u><a href="mailto:krd@mcehassan.ac.in">ib@mcehassan.ac.in</a></u>
-</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Dean- Student Affairs
+                                        </td>
+                                        <td>&nbsp;&nbsp;</td>
+                                        <td>Associate Dean Student Affairs
+                                        </td>
 
-</tr>
-</tbody>
-</table>
-            </div>
+                                    </tr>
+                                    <tr>
+                                        <td>Email:&nbsp;<u><a
+                                                    href="mailto:hsn@mcehassan.ac.in">krd@mcehassan.ac.in</a></u>
+                                        </td>
+                                        <td>&nbsp;&nbsp;</td>
+                                        <td>Email:&nbsp;<u><a
+                                                    href="mailto:krd@mcehassan.ac.in">ib@mcehassan.ac.in</a></u>
+                                        </td>
+
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
 
 
-          </div>
+                    </div>
 
-        </div>
-        <div class="col-sm-12 col-md-3">
-          <div class="sidebar sidebar-left mt-sm-30">
-            <?php
+                </div>
+                <div class="col-sm-12 col-md-3">
+                    <div class="sidebar sidebar-left mt-sm-30">
+                        <?php
             $sideBar = sideBar($mainMenu, $parentMenu, $activeMenu);
             print_r($sideBar);
 
             ?>
-          </div>
+                    </div>
+                </div>
+            </div>
         </div>
-      </div>
-    </div>
-  </section>
+    </section>
 
 </div>
 <!-- end main-content -->
