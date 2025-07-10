@@ -75,7 +75,7 @@
                             </table>
 
                             <p><strong class="text-theme-colored">&nbsp;LIST OF STAFF MEMBERS OF DEAN(SA)</strong></p>
-                            <p><strong>Dean-SA Superintendent - G H Shivappa Nayaka&nbsp;</strong></p>
+                            <p><strong>Dean-SA Superintendent - G H Shivappa Nayaka &nbsp;</strong></p>
                             <p class="text-theme-colored">Admission Section</p>
                             <table cellspacing="0" class="table">
                                 <tbody>
