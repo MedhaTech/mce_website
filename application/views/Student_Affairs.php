@@ -75,7 +75,7 @@
                             </table>
 
                             <p><strong class="text-theme-colored">&nbsp;LIST OF STAFF MEMBERS OF DEAN(SA)</strong></p>
-                            <p><strong>Dean-SA Superintendent -Shivakumaraswamy&nbsp;</strong></p>
+                            <p><strong>Dean-SA Superintendent - G H Shivappa Nayaka&nbsp;</strong></p>
                             <p class="text-theme-colored">Admission Section</p>
                             <table cellspacing="0" class="table">
                                 <tbody>
@@ -106,6 +106,17 @@
                                             <p>2</p>
                                         </td>
                                         <td>
+                                            <p>G B Pandukumara</p>
+                                        </td>
+                                        <td>
+                                            <p>Asst. Instructor</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p>3</p>
+                                        </td>
+                                        <td>
                                             <p>H.M. Geetha</p>
                                         </td>
                                         <td>
@@ -114,7 +125,7 @@
                                     </tr>
                                     <tr>
                                         <td>
-                                            <p>3</p>
+                                            <p>4</p>
                                         </td>
                                         <td>
                                             <p>Kiran M B</p>
@@ -193,13 +204,13 @@
                                             <p>1</p>
                                         </td>
                                         <td>
-                                            <p>K.N. Veeresh</p>
+                                            <p>B R Diwakara</p>
                                         </td>
                                         <td>
                                             <p>Stenographer</p>
                                         </td>
                                     </tr>
-                                    <tr>
+                                    <!-- <tr>
                                         <td>
                                             <p>2</p>
                                         </td>
@@ -209,10 +220,10 @@
                                         <td>
                                             <p>Mechanic</p>
                                         </td>
-                                    </tr>
+                                    </tr> -->
                                     <tr>
                                         <td>
-                                            <p>3</p>
+                                            <p>2</p>
                                         </td>
                                         <td>
                                             <p>Chandrakala</p>
