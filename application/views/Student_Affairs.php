@@ -207,7 +207,7 @@
                                             <p>B R Diwakara</p>
                                         </td>
                                         <td>
-                                            <p>Stenographer</p>
+                                            <p>SDA</p>
                                         </td>
                                     </tr>
                                     <!-- <tr>
