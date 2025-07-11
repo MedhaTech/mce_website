@@ -1,6 +1,6 @@
 
 
-name: Deploy to Productioon
+name: Deploy to Productioon 
 
 on:
   push:
