@@ -207,7 +207,7 @@
                                             <p>B R Diwakara</p>
                                         </td>
                                         <td>
-                                            <p>SDA</p>
+                                            <p>FDA</p>
                                         </td>
                                     </tr>
                                     <!-- <tr>

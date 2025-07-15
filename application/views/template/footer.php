@@ -211,8 +211,11 @@ $visitorCount = countPageVisitors('assets/visit_counter.txt');
       interval: 10000, // Change slide every 2 seconds
       pause: 'hover' // Pause on mouse hover
     });
-
-    $('#myModal').modal('show');
+    $('#myModal1').modal('show');
+      $('#myModal1').on('hidden.bs.modal', function () {
+      // Show myModal once myModal1 has been closed
+      $('#myModal').modal('show');
+    });
   });
 </script>
 
