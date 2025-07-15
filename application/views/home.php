@@ -1689,14 +1689,14 @@
 
 </div>
 <!-- end main-content -->
-<!-- <div id="myModal" class="modal fade" role="dialog">
+<div id="myModal1" class="modal fade" role="dialog">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal">&times;</button>
       </div>
       <div class="modal-body text-center">
-        <img class="mt-10 mb-15" alt="" src="<?php echo base_url(); ?>assets/images/popup.jpg">
+        <img class="mt-10 mb-15" alt="" src="<?php echo base_url(); ?>assets/images/banner_mca.jpeg">
       </div>
       <div class="modal-footer">
 
@@ -1704,7 +1704,7 @@
     </div>
 
   </div>
-</div> -->
+</div>
 
 
 
