@@ -2630,11 +2630,17 @@ $jayParsedAry = [
         ],
         [
             "name" => "IQAC",
-            "link" => true,
+            "link" => false,
             "display" => true,
             "childrenDisplay" => true,
             "subchildrenDisplay" => true,
             "children" => [
+                [
+                    "name" => "IQAC Home",
+                    "redirect" => "IQAC",
+                    "link" => true,
+                    "display" => true,
+                ],
                 [
                     "name" => "IQAC MOMS",
                     "link" => true,
