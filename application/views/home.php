@@ -378,7 +378,7 @@
       <div class="section-content">
         <div class="row mt-10">
           <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
-          <h4 class="text-theme-colored"><a href="https://campus.mcehassan.ac.in/student" class="text-theme-colored text-capitalize" target="blank"><img src="<?php echo base_url(); ?>assets/images/blinking_new.gif"></img> Student Login URL for Online Fees Payment</a> </h4>
+          <h4 class="text-theme-colored"><a href="https://campus.mcehassan.ac.in/student" class="text-theme-colored text-capitalize" target="blank"><img src="<?php echo base_url(); ?>assets/images/blinking_new.gif"></img> Student Login URL for Online Fees Payment</a> | <a href="<?= base_url(); ?>assets/Documents and Affidavit.pdf" class="text-theme-colored text-capitalize" target="blank"><img src="<?php echo base_url(); ?>assets/images/blinking_new.gif"></img>List of Documents and Affidavit format - Produced during the time of Admission </a> </h4>
           </marquee>
           <!-- <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
           <h4 class="text-theme-colored"><a href="https://youtube.com/live/cpaHCtf9bGM?feature=share" class="text-theme-colored text-capitalize" target="blank"><img src="<?php echo base_url(); ?>assets/images/blinking_new.gif"></img>YouTube Live Streaming link of 14th Graduation Day -2024</a> || <a href="https://admissions.mcehassan.ac.in/" class="text-theme-colored text-capitalize" target="blank"><img src="<?php echo base_url(); ?>assets/images/blinking_new.gif"></img> Click here for B.E Admissions 2024-25 Enquiry</a></h4>
