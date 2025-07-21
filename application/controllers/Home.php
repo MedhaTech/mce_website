@@ -241,7 +241,7 @@ class Home extends CI_Controller
 	{
 		$data['mainMenu'] = 'Other Committee';
 		$data['parentMenu'] = 'IQAC';
-		$data['activeMenu'] = "IQAC";
+		$data['activeMenu'] = "IQAC Home";
 		$this->template->show('IQAC', $data);
 	}
 
