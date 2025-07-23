@@ -258,7 +258,7 @@ class Home extends CI_Controller
 		$data['mainMenu'] = 'Other Committee';
 		$data['parentMenu'] = 'IQAC';
 		$data['activeMenu'] = "IQAC MOMS";
-		$data['documents']  = $this->admin_model->getDetailsbyfield('23', 'dept_id', 'accredited_documents')->result();
+		$data['documents']  = $this->admin_model->getDetailsbyfieldSort('23', 'dept_id', 'id', 'desc', 'accredited_documents')->result();
 		$this->template->show('IQAC_MOMS', $data);
 	}
 
