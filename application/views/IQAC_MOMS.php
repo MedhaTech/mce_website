@@ -31,7 +31,7 @@
 						 <table class="table table-striped">
                     <thead>
                         <tr>
-                            <th width="10%">Sl No:</th>
+                            <th width="10%">Sl No: </th>
                             <th width="60%">Description</th>
                             <th width="30%">File To Download</th>
                         </tr>
