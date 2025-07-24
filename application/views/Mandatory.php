@@ -81,7 +81,7 @@
                                         <p><?php echo anchor('assets/files/MANDATORY DISCLOSURE/EC1.pdf','<i class="fa fa-download"></i> Download','class="btn btn-warning btn-sm" target="_blank"');?></p>
                                         </td>
                                     </tr>
-                                    <tr>
+                                    <!-- <tr>
                                         <td width="51">
                                             <p>5</p>
                                         </td>
@@ -91,10 +91,10 @@
                                         <td width="125">
                                         <p><?php echo anchor('assets/files/MANDATORY DISCLOSURE/AU.pdf','<i class="fa fa-download"></i> Download','class="btn btn-warning btn-sm" target="_blank"');?></p>
                                         </td>
-                                    </tr>
+                                    </tr> -->
                                     <tr>
                                         <td width="51">
-                                            <p>6</p>
+                                            <p>5</p>
                                         </td>
                                         <td width="408">
                                             <p>Electrical and Electronics Engineering</p>
@@ -105,7 +105,7 @@
                                     </tr>
                                     <tr>
                                         <td width="51">
-                                            <p>7</p>
+                                            <p>6</p>
                                         </td>
                                         <td width="408">
                                             <p>Electronics and Instrumentation</p>
@@ -114,7 +114,7 @@
                                         <p><?php echo anchor('assets/files/MANDATORY DISCLOSURE/EIE new mandatory.pdf','<i class="fa fa-download"></i> Download','class="btn btn-warning btn-sm" target="_blank"');?></p>
                                         </td>
                                     </tr>
-                                    <tr>
+                                    <!-- <tr>
                                         <td width="51">
                                             <p>8</p>
                                         </td>
@@ -122,10 +122,10 @@
                                             <p>Industrial &amp; Production and Engineering</p>
                                         </td>
                                         <td width="125"><p><?php echo anchor('assets/files/MANDATORY DISCLOSURE/IP.pdf','<i class="fa fa-download"></i> Download','class="btn btn-warning btn-sm" target="_blank"');?></p></td>
-                                    </tr>
+                                    </tr> -->
                                     <tr>
                                         <td width="51">
-                                            <p>9</p>
+                                            <p>7</p>
                                         </td>
                                         <td width="408">
                                             <p>Information Science &amp; Engineering</p>
@@ -136,7 +136,7 @@
                                     </tr>
                                     <tr>
                                         <td width="51">
-                                            <p>10</p>
+                                            <p>8</p>
                                         </td>
                                         <td width="408">
                                             <p>Department of Physics</p>
@@ -147,7 +147,7 @@
                                     </tr>
                                     <tr>
                                         <td width="51">
-                                            <p>11</p>
+                                            <p>9</p>
                                         </td>
                                         <td width="408">
                                             <p>Department of Chemistry</p>
@@ -158,7 +158,7 @@
                                     </tr>
                                     <tr>
                                         <td width="51">
-                                            <p>12</p>
+                                            <p>10</p>
                                         </td>
                                         <td width="408">
                                             <p>Department of Mathematics</p>
