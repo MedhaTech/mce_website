@@ -22,13 +22,7 @@ jobs:
           ssh -o StrictHostKeyChecking=no -i private_key ubuntu@${{secrets.NEW_HOSTNAME}} '
             cd /var/www/html/mcehassan &&
             # Save local changes to visit_counter.txt (like visit count)
-            sudo git stash push assets/visit_counter.txt || true
-      
-            # Pull latest changes from main
-            sudo git pull origin main
-      
-            # Restore visit_counter.txt (if stashed)
-            sudo git stash pop || true
+
             sudo git pull origin main '
             
 
