@@ -109,7 +109,13 @@
         <ul>
 
         <!---side 1 -->
-        <li data-index="rs-13" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="<?php echo base_url(); ?>assets/images/slider/the_week.png" data-rotate="0" data-saveperformance="off" data-title="Slide 13" data-description="">
+         <li data-index="rs-15" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="<?php echo base_url(); ?>assets/images/slider/iirfslid.png" data-rotate="0" data-saveperformance="off" data-title="Slide 15" data-description="">
+            
+            <img src="<?php echo base_url(); ?>assets/images/slider/iirfslid.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina>
+
+          </li>
+
+        <li data-index="rs-14" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="<?php echo base_url(); ?>assets/images/slider/the_week.png" data-rotate="0" data-saveperformance="off" data-title="Slide 14" data-description="">
             
             <img src="<?php echo base_url(); ?>assets/images/slider/the_week.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina>
 
@@ -212,12 +218,12 @@
 
           </li> -->
 
-          <li data-index="rs-9" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="<?php echo base_url(); ?>assets/images/westernsydney_slider.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide 9" data-description="">
-            <!-- MAIN IMAGE -->
+          <!-- <li data-index="rs-9" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="<?php echo base_url(); ?>assets/images/westernsydney_slider.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide 9" data-description="">
+            MAIN IMAGE
             <img src="<?php echo base_url(); ?>assets/images/westernsydney_slider.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina>
-            <!-- LAYERS -->
+            LAYERS
 
-          </li>
+          </li> -->
         </ul>
       </div>
       <!-- end .rev_slider -->
